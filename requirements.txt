@@ -4,6 +4,7 @@ pinecone-client==5.0.0
 langchain
 flask
 pypdf
+python-dotenv
 -e .
 
 
